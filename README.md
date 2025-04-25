@@ -1,7 +1,7 @@
 # 🥭 James e a Caça das Frutas
 
 Um mini jogo feito em **Processing**, onde  James coleta frutas caindo do céu para montar sua salada de frutas.  
-Inclui efeitos sonoros como "Oh James", "Esse é o James" e muito mais.
+
 
 ## 🎮 Como jogar
 - Use as **setas do teclado (← →)** para mover o James.
